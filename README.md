@@ -32,7 +32,7 @@ MarkDown语法：
 ![截图1](https://img1.baidu.com/it/u=2298484978,1703903334&fm=26&fmt=auto&gp=0.jpg)  
 
 ## 超链接
-[百度](www.baidu.com)中括号里面写链接名字，紧跟着的小括号里面写链接的url
+[网易](https://www.163.com/)中括号里面写链接名字，紧跟着的小括号里面写链接的url
 
 
 
