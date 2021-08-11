@@ -55,7 +55,7 @@ public
 
 ```
 # 常用的dos命令
-![常用dos命令](C:\Users\zwknb\Desktop\不能删的图片)  
+![常用dos命令](https://img1.baidu.com/it/u=416834342,2902827173&fm=26&fmt=auto&gp=0.jpg)  
 几个尤其需要注意的：  
 1. md 创建目录名
 2. rd 移除目录
