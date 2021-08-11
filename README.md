@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @zwknb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 zwknb/zwknb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,3 +51,13 @@ MarkDown语法：
 如：  
 ```java
 public 
+
+
+```
+# 常用的dos命令
+![常用dos命令](C:\Users\zwknb\Desktop\不能删的图片)  
+几个尤其需要注意的：  
+1. md 创建目录名
+2. rd 移除目录
+3. cd>1.txt 创建文件
+4. del 删除
